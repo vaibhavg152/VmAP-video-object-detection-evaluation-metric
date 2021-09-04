@@ -1,0 +1,12 @@
+.cache/
+detector/results/
+detector/
+tracking/tracked_detections/
+*/__pycache__/
+__pycache__/
+*/__pycache__/*
+__pycache__/*
+viz/results/
+tracking/single_object/goturn.caffemodel
+tracking/single_object/goturn-files/*.zip*
+ablation_studies/set_visuals/
